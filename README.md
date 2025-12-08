@@ -2,7 +2,7 @@
 
 A wellbeing companion app designed to support adolescent health through lifestyle resources, mood tracking, HRV biofeedback, and optional health coaching. Built as part of a research study at **RCSI (Royal College of Surgeons in Ireland)**.
 
-Looking for iOS? See **wellby-ios**.
+Looking for iOS? See **[wellby-ios](https://github.com/j-laiti/Wellby-iOS)**.
 
 ---
 

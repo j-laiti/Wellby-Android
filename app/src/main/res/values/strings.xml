@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wellby</string>
+    <string name="default_notification_channel_id">my_default_channel</string>
+    <string name="xiao_service_id">2ef946af-49fc-43f4-95c1-882a483f0a76</string>
+    <string name="xiao_characteristic_id">8881ab16-7694-4891-aebe-b0b11c6549d4</string>
+    <string name="ppg_characteristic_id">4aa76196-2777-4205-8260-8e3274beb327</string>
+</resources>
